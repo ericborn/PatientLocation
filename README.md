@@ -8,4 +8,4 @@ After the data was stored in the database I created a query (extract.sql) to be 
 Where I found the data to be pretty evenly dispersed between a lot of different regions I chose to use a cluster column chart as it was easier to identify the size of each region in comparison to each other. Where there was a large varience in most of the regions, I used a treemap. This provides the differences in sizes between the regions at a quick glance.
 
 If you do not have Power BI downloaded you can view a copy of the report here:
-https://app.powerbi.com/view?r=eyJrIjoiY2Y5MDY5M2UtMTMzMS00OWQ1LWE3MGMtOTgzOTExNzU1Mzc3IiwidCI6IjI2OTYxMDVlLTg4NmQtNGFiZi05OWU1LTI2NDE5YTU2Y2QwMyJ9
+https://bit.ly/2U1K1Wg
